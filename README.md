@@ -17,7 +17,7 @@ To build a command-line Notes App that allows users to:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Java 17 (JDK)
 - VS Code or IntelliJ
@@ -62,7 +62,7 @@ EnhancedNotesApp/
 
 ## Sample Menu Output
 
-=== 📚 Notes Manager ===
+=== Notes Manager ===
 
 1.Write Note
 2.View Notes
